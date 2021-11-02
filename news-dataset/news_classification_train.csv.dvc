@@ -1,0 +1,4 @@
+outs:
+- md5: 57f012098ce154bce35aa9d755132611
+  size: 105175
+  path: news_classification_train.csv
